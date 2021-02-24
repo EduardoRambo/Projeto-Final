@@ -1,0 +1,65 @@
+#img{
+
+  position: absolute;
+width: 344.79px;
+height: 139.67px;
+left: 253.67px;
+top: 10px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px #000000;
+}
+#recre{
+
+
+margin-top:3  %;
+
+  box-shadow: 0px 4px 4px #000000;
+}
+
+
+#caixa{
+
+  margin-top:56%;
+
+  position: absolute;
+  width: 7706px;
+  height: 209px;
+  left: 8px;
+  top: 650px;
+
+  background: #66C3D0;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 207px;
+
+}
+#quem{
+
+width: 851px;
+height: 60  px;
+left: 252px;
+top: 30px;
+
+margin-top:6%;
+font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 57.4254px;
+line-height: 93.8%;
+/* or 54px */
+
+
+color: #00BFFF;
+
+
+}
+
+#text
+{
+
+  margin-top:4%;
+  color: #2D9CDB;
+}
+#img{
+  margin-top:6%;
+}
